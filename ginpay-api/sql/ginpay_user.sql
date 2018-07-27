@@ -1,0 +1,7 @@
+INSERT INTO ginpay.user (id, point, image, name) VALUES ('fb60042070d013a7d9e2b91c07614799269ae4be3f047b3445ad1f2cb22b099d', 0, 'https://www.exeo-japan.co.jp/assets/img/ex_capture/target/target_11/01.jpg', 'james smith');
+INSERT INTO ginpay.user (id, point, image, name) VALUES ('fb60042070d013a7d9e2b91c07614799269ae4bm2n897a0955ca0f8uc88h122a', 100, 'https://s.eximg.jp/expub/feed/Cafegoogirl/2016/Cafegoogirl_24405/Cafegoogirl_24405_1.jpg', 'david johnson');
+INSERT INTO ginpay.user (id, point, image, name) VALUES ('jdfq9fuv8qfu3f9q3jvso9wfu9q3997cah8eqy6cai279ffqjfq97feq9f7q9uu9', 0.23, 'http://trend-passion-life.com/wp-content/uploads/2017/09/40000018.jpg', 'william
+ taylor');
+INSERT INTO ginpay.user (id, point, image, name) VALUES ('qif8qyva8vf686cvy8a6f8qwf9ucv9aufqejfoj9q7c9a7fqw9uco9qif8qyva8v', 18, 'https://i.pinimg.com/originals/fd/18/79/fd1879b33d3b011ff7122d3cbbb9f158.jpg', 'mary moore');
+INSERT INTO ginpay.user (id, point, image, name) VALUES ('vaouv9a77f8a6chu38fy8s6fynq823ur9fji34t7fseikhfweyf86awe6q8686o9', 1000, 'https://rr.img.naver.jp/mig?src=http%3A%2F%2Fimgcc.naver.jp%2Fkaze%2Fmission%2FUSER%2F20141230%2F30%2F3151100%2F397%2F236x236xccdffb5405c96366d53d0af7.jpg%2F300%2F600&twidth=300&theight=300&qlt=80&res_format=jpg&op=r', 'linda davis');
+INSERT INTO ginpay.user (id, point, image, name) VALUES ('wowwv89cq97eq97c8q6f8cq68fqhjv8ejckcqoj3kjwidh222hfk3kkhawikqiy2', 0, 'https://c-lj.gnst.jp/public/article/detail/a/00/01/a0001662/img/basic/a0001662_main.jpg?20171206110513', 'elizabeth willson');
